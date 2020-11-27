@@ -1,0 +1,16 @@
+
+"""
+getting text from user
+variable name = input('message')
+"""
+name = input('enter your name')
+print('hello', name)
+
+
+"""
+getting numbers from user
+variable name = eval(input('message'))
+"""
+
+num = eval(input('enter a number:'))
+print('your number squared', num * num)
