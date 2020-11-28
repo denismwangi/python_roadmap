@@ -2,55 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ccb24e1-5809-4112-8429-b1e36842a5c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/BankAccount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/addmiddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/assit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/avenum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/buildlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/calc2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/checkgreater.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/checkrange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/continueexample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/customobj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/data.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/exam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/findfactors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/first2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/gcbd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/hete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/importtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/incre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/indefinite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/inheritaance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/invest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/kidgame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/leadingzeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/makeuniorm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/permuteabc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/permuteabcd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/printprime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/range2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/simplefunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/ssquareroot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/startree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/timestable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/troubleshoot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/branchA/uniquenumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifelseloop/el.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/shuflee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/striing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strings/stringm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whileloop/fist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionary/updatedict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/listcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/mylist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/copyset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/frozenset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/setdiff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/superset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets/union.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples/slicetuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples/systuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples/timeit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples/tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/shuflee.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/shuflee.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +33,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/denismwangi/python_roadmap.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1kp7QwjMpQhN7XFt1AgJKUmzqIx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -77,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/branchA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -85,8 +62,8 @@
       <recent name="C:\Users\denniske\PycharmProjects\Tutorial\branchA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fist">
-    <configuration name="2d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.frozenset">
+    <configuration name="copyset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/2d.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/copyset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="frozenset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/anagram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/frozenset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="setdiff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/whileloop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/whileloop/fist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/setdiff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="invest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="superset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/branchA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/branchA/invest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/superset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shuflee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="union" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/shuflee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets/union.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fist" />
-        <item itemvalue="Python.2d" />
-        <item itemvalue="Python.anagram" />
-        <item itemvalue="Python.shuflee" />
-        <item itemvalue="Python.invest" />
+        <item itemvalue="Python.frozenset" />
+        <item itemvalue="Python.copyset" />
+        <item itemvalue="Python.superset" />
+        <item itemvalue="Python.setdiff" />
+        <item itemvalue="Python.union" />
       </list>
     </recent_temporary>
   </component>
@@ -212,49 +189,78 @@
       <option name="presentableId" value="Default" />
       <updated>1606385667029</updated>
     </task>
+    <task id="LOCAL-00001" summary="continue">
+      <created>1606472207160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606472207160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue" />
   </component>
   <component name="WindowStateProjectService">
     <state x="501" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606394236312">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="501" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1606394236312" />
+    <state x="356" y="0" key="CommitChangelistDialog2" timestamp="1606472203335">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="356" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1606472203335" />
     <state x="638" y="119" key="FileChooserDialogImpl" timestamp="1606462039421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="638" y="119" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1606462039421" />
-    <state width="1573" height="234" key="GridCell.Tab.0.bottom" timestamp="1606465455658">
+    <state width="757" height="231" key="GridCell.Tab.0.bottom" timestamp="1606498740617">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="234" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606465455658" />
-    <state width="1573" height="234" key="GridCell.Tab.0.center" timestamp="1606465455658">
+    <state width="757" height="231" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606498740617" />
+    <state width="757" height="231" key="GridCell.Tab.0.center" timestamp="1606498740617">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="234" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606465455658" />
-    <state width="1573" height="234" key="GridCell.Tab.0.left" timestamp="1606465455658">
+    <state width="757" height="231" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606498740617" />
+    <state width="757" height="231" key="GridCell.Tab.0.left" timestamp="1606498740617">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="234" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606465455658" />
-    <state width="1573" height="234" key="GridCell.Tab.0.right" timestamp="1606465455658">
+    <state width="757" height="231" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606498740617" />
+    <state width="757" height="231" key="GridCell.Tab.0.right" timestamp="1606498740617">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="234" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606465455658" />
-    <state width="1573" height="259" key="GridCell.Tab.1.bottom" timestamp="1606460001324">
+    <state width="757" height="231" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606498740617" />
+    <state width="1573" height="259" key="GridCell.Tab.1.bottom" timestamp="1606476948288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="259" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606460001324" />
-    <state width="1573" height="259" key="GridCell.Tab.1.center" timestamp="1606460001324">
+    <state width="1573" height="259" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606476948288" />
+    <state width="1573" height="259" key="GridCell.Tab.1.center" timestamp="1606476948288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="259" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1606460001324" />
-    <state width="1573" height="259" key="GridCell.Tab.1.left" timestamp="1606460001324">
+    <state width="1573" height="259" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1606476948288" />
+    <state width="1573" height="259" key="GridCell.Tab.1.left" timestamp="1606476948278">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="259" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1606460001324" />
-    <state width="1573" height="259" key="GridCell.Tab.1.right" timestamp="1606460001324">
+    <state width="1573" height="259" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1606476948278" />
+    <state width="1573" height="259" key="GridCell.Tab.1.right" timestamp="1606476948288">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1573" height="259" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1606460001324" />
+    <state width="1573" height="259" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1606476948288" />
     <state x="301" y="0" key="SettingsEditor" timestamp="1606392617184">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -263,13 +269,17 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="292" y="97" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1606472118212" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1606458164163">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1606545877798">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1606458164163" />
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1606388949132">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1606545877798" />
+    <state x="556" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606472271038">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1606388949132" />
+    <state x="556" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1606472271038" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1606496300742">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1606496300742" />
   </component>
 </project>
